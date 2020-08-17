@@ -10,7 +10,7 @@ https://doi.org/10.1128/mSphere.00484-20
 
 If you need futher information please contact [dxramirez@usfq.edu.ec](mailto:dxramirez@usfq.edu.ec)
 
-This repository contains the count tables obtained after the processing of the amplicon sequence data. The amplicon sequencing raw reads will be available after publication at NCBI Sequence Read Archive (Project PRJNA632632). Additionally, the Materials and Methods section and the Supplementary Table S1 are included.
+This repository contains the count tables obtained after the processing of the amplicon sequence data. The amplicon sequencing raw reads are available at NCBI Sequence Read Archive (Project PRJNA632632). Additionally, the Materials and Methods section and the Supplementary Table S1 are included.
 
 ### Raw_data
 **count_table_raw.csv**: CSV table that contains the raw USeq and OTU count table from Synthetic Community (SynCom) experiment.
